@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Restful.Service.Client</id>
+    <version>1.0.0.0</version>
+    <authors>Ben Keeping</authors>
+    <owners>Ben Keeping</owners>
+    <projectUrl>http://github.com/benjaminkeeping/Restful.Service.Client</projectUrl>
+    <description>Provides a base for a client API for restful web services</description>
+    <copyright>Copyright Ben Keeping 2012</copyright>
+    <dependencies>
+      <dependency id="Restful.Web.Client" version="1.0.0.0" />
+    </dependencies>
+    
+  </metadata>
+</package>
