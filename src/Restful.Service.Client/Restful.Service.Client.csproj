@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bootstrap.cs" />
     <Compile Include="CookieBasedSessionProvider.cs" />
     <Compile Include="IServiceClient.cs" />
     <Compile Include="ISessionProvider.cs" />
