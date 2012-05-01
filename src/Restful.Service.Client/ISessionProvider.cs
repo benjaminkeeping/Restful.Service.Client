@@ -6,5 +6,7 @@ namespace Restful.Service.Client
         long GetLoggedInUserId();
         bool IsLoggedIn();
         void InitialiseSessionWith(dynamic sessionDetails);
+        void ClearSession();
+        string GetLoggedInUsername();
     }
 }
